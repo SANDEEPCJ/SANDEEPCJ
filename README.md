@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm SANDEEP C J</h1>
 <h3 align="center">A BUSINESS DEVELOPMENT ANALYST from India</h3>
 
@@ -23,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sandeeps_303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeeps_303" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sandeep c j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep c j" height="30" width="40" /></a>
-<a href="https://fb.com/smart sandeep smart sandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="smart sandeep smart sandy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandeep-cj-67b99821b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-cj-67b99821b" height="30" width="40" /></a>
+<a href="https://fb.com/smartsandeep.smartsandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="smartsandeep.smartsandy" height="30" width="40" /></a>
 <a href="https://instagram.com/sandeep__smarty303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep__smarty303" height="30" width="40" /></a>
 </p>
 
